@@ -1,6 +1,6 @@
-# CRYPTO-PAYMENT-MATRIX — ماتریس پرداخت رمزارزی
+# CRYPTO-PAYMENT-MATRIX — ماتریس پرداخت رمزارزی (2026-11-21)
 
-دسته‌ها: VERIFIED (مدرک مستقیم) | PARTIALLY VERIFIED | CONTACT REQUIRED | NOT SUPPORTED | UNKNOWN
+> منبع هر ردیف: پروفایل DOCX همان تأمین‌کننده + EVIDENCE. هیچ ادعایی بدون مدرک URL ثبت نشده است.
 
 قاعده: پرداخت با کارت بانکی خارجی یا PayPal جایگزین پرداخت رمزارزی محسوب نمی‌شود و فقط به‌عنوان گزینه جایگزین ثبت می‌گردد.
 
