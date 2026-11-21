@@ -80,4 +80,10 @@
 
 هشدار ریسک: psnwholesale.com و alphapsn.ltd فقط snippet — بدون رجیستر/مجوز. [ردشده فعلاً]
 
+## امتیازهای نهایی S01 (پس از بررسی عمیق — مبنای رتبه‌بندی در SUPPLIER-COMPARISON.md)
+
+Cryptorefills **85** | Bitrefill **83** | CoinGate GIFQ **80** | MTCGAME **74** | Kinguin **71** | Gamivo **69** | SEAGM **66** | OffGamers **65** | Turgame **58**
+
+وضعیت Deep-Dive: هر ۹ تأمین‌کننده سهم S01 پرونده Word کامل (PROFILE + API-DOCUMENTATION + PRICE-COMPARISON + CONTACT-HISTORY + EVIDENCE) دارند. پیش‌نویس‌های مکاتبه «آماده ارسال» و منوط به تأیید کارفرما هستند. S02 پرونده‌های CodesWholesale، Coinsbee، Oyunfor، FunPay و GGsel را تحویل داد؛ در موارد تکراری، نسخه S02 در EVIDENCE/session02/ هر پوشه آرشیو شده است.
+
 محصولات «ظرفیت ۱/۲/۳» و اکانت‌های Primary/Secondary رایج بازار ایران مبتنی بر اشتراک‌گذاری اکانت PSN هستند. بررسی مستند (Session 01، رشته C): **هیچ تأمین‌کننده رسمی/قانونی بین‌المللی برای این دسته وجود ندارد** — PSN ToS (مارس ۲۰۲۵) خرید/فروش/اشتراک‌گذاری اکانت را صریحاً ممنوع می‌کند و ممنوعیت Reseller (§8.4) و خاتمه غیرقابل بازگشت (§12.3) با لینک playstation.com مستند شده است. هرگونه تأمین‌کننده اکانت بدون اثبات منشأ قانونی، برچسب `[ردشده]` یا `[نیازمند استعلام]` می‌گیرد.
